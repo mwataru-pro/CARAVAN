@@ -5,7 +5,7 @@ one:
   category: MyString
   body: MyText
 
-two:
+two: 
   title: MyString
   category: MyString
   body: MyText
